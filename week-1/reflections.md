@@ -57,3 +57,13 @@ Can you remember what each of the following does of the top of your head? Write 
 -help - Lets one find out what a particular command does
 
 # 1.4 Forking and Cloning
+
+If you were going to write instructions for a new person on how to create a new repo, fork a repo, and clone a repo, what would they be? Why would you fork a repository as opposed to create a new one?
+If I were to write instructions for someone new on creating, forking and cloning I would use step-by-step instructions. Creating a new repo, I would explain where exactly it is on GitHub, which is top right corner and it is a plus sign. Then they would need to make a name for this new repo and make it private or public (I thing private one has to pay for) then any licensing they want (I would need to read up on that because I'm not sure what the licensing does). then click create. Forking is when one is looking at another's GitHub and want to work on the projects or are woking on the project with someone and want to clone it to their own GItHub. All they need to do is click fork which is located on the right side of the screen by the buttons star and watch. This will pop another screen up which will allow you to fork it to whatever account you have. To Clone a repo one only needs to find the url, located right next to the HTTP: sign, and copy and then go to their terminal type 'git clone url' and it will be downloaded to their computer.
+
+ 
+
+Forking a repository allows one to have a copy of anothers work and be able to contribute to that work without interfering or modifying the original, really handy when testing. While creating a new on you would be starting from scratch.
+
+What struggles did you have setting up git and GitHub? What did you learn in the process?
+My struggles didn't come with setting up git or Github they came with creating repositories and trying to push things from my computer to GitHub, that process I am still working on. I have learned a ton in that regard, however, because now I know how to fork, move projects down to my computer and work with them from there. I am learning more and more commands every time I am doing this and it is fascinating. 
