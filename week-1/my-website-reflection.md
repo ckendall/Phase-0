@@ -17,4 +17,8 @@ Using licenses is important because it can still give the control back to the or
 I am getting more stable in posting to GitHub from git. I didn't have any "aha" moments but seeing my HTML site was super cool. I am still struggling with branching a little bit.
 
 #Did you find any resources on your own that helped you better understand a topic? If so, please list it.
+<<<<<<< HEAD
 I did not find any outside resources that were of help to me.
+=======
+I did not find any outside resources that were of help to me.
+>>>>>>> 5892cedf6e5fda1b971e7c185102b524bda9d40b
