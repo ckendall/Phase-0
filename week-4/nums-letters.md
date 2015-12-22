@@ -9,3 +9,25 @@ To them I would say that interger division in ruby works in whole numbers, it wi
 
 number_of_hours_in_a_year_equation = (24/1.0)(365/1.0)
 number_of_minutes_in_a_decade_equation = (60/1.0)*(24/1.0)*(365/1.0)*(10/1.0)
+
+#How does Ruby handle addition, subtraction, multiplication, and division of numbers?
+Ruby handles all of the functions just like calculator would. As long as the right sign is connected with the numbers then it will do the operation.
+
+#What is the difference between integers and floats?
+I'll reiterate what I have up top and that is integers are real numbers and floats are basically decimals.
+
+#What is the difference between integer and float division?
+Again, I will rephrase what I have up top and that is integer division will return the whole number of the division. As in 5/4, it will return 1 and in float it will return the whole decimal approximation. 5/4.0 is 1.25.
+
+#What are strings? Why and when would you use them?
+Strings are sentences that ruby can interperate. When encasing a sentence in quotes it tell the ruby interperater that this is a string of any number of letters and numbers. Why we use them? so that we can output messages, hold variable names, create arrays with names, so and and so forth. We use them all the time whether we want to create a name or have some input be a name or a sentence that we are trying to decipher. There are many uses for strings and we will find them out.
+
+#What are local variables? Why and when would you use them?
+Local variables are variables local to the program themselves. Say I have a method defined and a variable in it, that is a local variable. Here is example code: 
+def name
+	name = cody
+end
+my name is local to the method name. we use local variables to complete specific tasks in code that we don't want other pieces of code to know or it just doesn't need to know, so we don't pass it out. We would use these in classes for programs to create a little world for everything to live in. 
+
+#How was this challenge? Did you get a good review of some of the basics?
+I enjoyed this one because it gave me a chance to look over some code and remember everything that I had done, it was fun!
