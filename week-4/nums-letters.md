@@ -32,7 +32,7 @@ my name is local to the method name. we use local variables to complete specific
 #How was this challenge? Did you get a good review of some of the basics?
 I enjoyed this one because it gave me a chance to look over some code and remember everything that I had done, it was fun!
 
-here are the links to my code:
+here are the links to my code for the ruby challenge:
 https://github.com/whitendn/Phase-0/blob/master/week-4/basic-math.rb
 https://github.com/whitendn/Phase-0/blob/master/week-4/defining-variables.rb
 https://github.com/whitendn/Phase-0/blob/master/week-4/simple-string.rb
