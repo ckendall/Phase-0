@@ -21,6 +21,6 @@ def factorial(number)
       total *= number
       number -= 1
     end
-    return total
   end
+  return total
 end
