@@ -22,7 +22,7 @@ end
 #for a hash in this case, I made it with block that I passed in. 
 
 # here are the links for the people so far
-https://github.com/whitendn/Phase-0/blob/master/week-5/group-research-methods/my_solution.rb/ruby/
+https://github.com/whitendn/Phase-0/blob/master/week-5/group-research-methods/my_solution.rb
 https://github.com/menuka-s/phase-0/blob/master/week-5/group-research-methods/my_solution.rb
 https://github.com/akeem-s/phase-0/blob/master/week-5/group-research-methods/my_solution.rb
 https://github.com/colineforde/phase-0/blob/master/week-5/group-research-methods/my_solution.rb
