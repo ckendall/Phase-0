@@ -54,3 +54,25 @@ cohort_generator(["John Seo", "Aaron Hu", "Adam Pinsky", "Akeem Street",
 "Tim Kelly", "Timothy Beck", "Tyler Doerschuk"])
 
 
+#What was the most interesting and most difficult part of this challenge?
+# The most interesting is the freedom of this challenge and the same with the diffuculty of the challenge
+# I feel like this would be more like what I would encounter in the real world,
+# I wouldn't have test or anything and I would need everything to come from my head.
+
+#Do you feel you are improving in your ability to write pseudocode and break the problem down?
+# I don't know. I feel like my logic is good, but my code logic is really bad. 
+# Sometimes it is hard for me to come to grips with this and feel like it's not right,
+# but I love doing this and I know that it will come and hopefully the psudocode will help out.
+
+#Was your approach for automating this task a good solution? What could have made it even better?
+# I feel like it was a good solution, but definitely not the best and I need to learn more. I need 
+# to get more randomized and check for that. 
+
+#What data structure did you decide to store the accountability groups in and why?
+# I used an array because I only have names and nothing more. I didn't have anything else
+# to look at so this is what I did. 
+#What did you learn in the process of refactoring your initial solution? Did you learn any new Ruby methods?
+# I learned that I didn't need to push single name into the arrays. Instead I could just create something
+# to do that for me. I know it isn't the best solution, but it is what I have right now.
+
+
