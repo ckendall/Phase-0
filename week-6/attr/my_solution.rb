@@ -6,9 +6,11 @@
 
 # Pseudocode
 
-# Input:
-# Output:
-# Steps:
+# Input: a string
+# Output: a string
+# Steps: create initialized method and instance variable set to a string
+# create a greetings class and initialzed to a new instance of the name class
+# Create a method to return a greeting
 
 class NameData
 	attr_reader :name
