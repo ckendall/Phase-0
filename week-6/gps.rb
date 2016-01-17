@@ -1,8 +1,15 @@
 # Your Names
+<<<<<<< HEAD
 # 1)Dong Wook Seo (John)
 # 2)Cody Kendall
 
 # We spent [1] hours on this challenge.
+=======
+# 1)
+# 2)
+
+# We spent [#] hours on this challenge.
+>>>>>>> master
 
 # Bakery Serving Size portion calculator.
 
@@ -39,6 +46,7 @@ p serving_size_calc("cookie", 1)
 p serving_size_calc("cookie", 10)
 p serving_size_calc("THIS IS AN ERROR", 5)
 
+<<<<<<< HEAD
 
 # Your Names
 # 1) Dong Wook Seo (John)
@@ -104,3 +112,6 @@ end
 
 
 
+=======
+#  Reflection
+>>>>>>> master
