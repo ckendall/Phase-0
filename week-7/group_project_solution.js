@@ -1,3 +1,8 @@
+//Group project week 7
+
+	// Release 3 - Cody Kendall
+	// Pseudocode to Code
+
 var sum = function(array){
 	sumAll = 0
 	for (var i = 0; i < array.length; i++)
