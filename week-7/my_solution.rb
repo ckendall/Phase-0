@@ -1,15 +1,8 @@
-<<<<<<< HEAD
-class VirusPredictor
-  
-=begin
-Creates the following instance vars '@state', '@population', and '@population_density'.
-=end
-  
-=======
+
 # Virus Predictor
 
-# I worked on this challenge [by myself, with: ].
-# We spent [#] hours on this challenge.
+# I worked on this challenge [ with: Prince].
+# We spent [1] hours on this challenge.
 
 # EXPLANATION OF require_relative
 #
@@ -18,14 +11,16 @@ require_relative 'state_data'
 
 class VirusPredictor
 
->>>>>>> e03bde7fccc0d5c38c20e240bd01133650e93915
+=begin
+Creates the following instance vars '@state', '@population', and '@population_density'.
+=end
   def initialize(state_of_origin, population_density, population)
     @state = state_of_origin
     @population = population
     @population_density = population_density
   end
 
-<<<<<<< HEAD
+
 =begin
 Calls two methods, 'predicted_deaths' and 'speed_of_spread'.
 =end
@@ -75,8 +70,7 @@ Takes three arguments 'population_density', 'population', and 'state'. Returns n
     # else
     #   number_of_deaths = (@population * 0.05).floor
     # end
-    
-=======
+
   def virus_effects
     predicted_deaths(@population_density, @population, @state)
     speed_of_spread(@population_density, @state)
@@ -97,22 +91,22 @@ Takes three arguments 'population_density', 'population', and 'state'. Returns n
     else
       number_of_deaths = (@population * 0.05).floor
     end
->>>>>>> e03bde7fccc0d5c38c20e240bd01133650e93915
+
 
     print "#{@state} will lose #{number_of_deaths} people in this outbreak"
 
   end
-<<<<<<< HEAD
+
   
 =begin
 Takes two two arguments 'population_density' and 'state'. Calculates 'speed' based on 'population_density'.
 =end
   
   def speed_of_spread #in months
-=======
+
 
   def speed_of_spread(population_density, state) #in months
->>>>>>> e03bde7fccc0d5c38c20e240bd01133650e93915
+
     # We are still perfecting our formula here. The speed is also affected
     # by additional factors we haven't added into this functionality.
     speed = 0.0
@@ -135,7 +129,6 @@ Takes two two arguments 'population_density' and 'state'. Calculates 'speed' bas
 
 end
 
-<<<<<<< HEAD
 def states
   STATE_DATA.each do |state, value|
     state = VirusPredictor.new(state, STATE_DATA[state]   [:population_density], STATE_DATA[state][:population])
@@ -145,15 +138,14 @@ end
 
 states
 
-=======
->>>>>>> e03bde7fccc0d5c38c20e240bd01133650e93915
+
 #=======================================================================
 
 # DRIVER CODE
  # initialize VirusPredictor for each state
 
 
-<<<<<<< HEAD
+
 # alabama = VirusPredictor.new("Alabama", STATE_DATA["Alabama"][:population_density], STATE_DATA["Alabama"][:population])
 # alabama.test
 # #
@@ -171,24 +163,23 @@ states
 # Reflection Section
 
 #What are the differences between the two different hash syntaxes shown in the state_data file?
+# From what I gatherd the two different hash syntaxes are essientially the same thing. They work
+# the same they just store it a little different and they are more style different.
+
 # What does require_relative do? How is it different from require?
+# require_relative is something that we do when we want to add another file to our 
+# existing one to work on. It goes through our local directory and finds wthe specified 
+# file. Require is a little more difficult for me. I think it is something that points to 
+# all of the Ruby files accessable? I'm not too sure one this one.
+
 # What are some ways to iterate through a hash?
+# There are a ton of ways to iterate through a hash. example. ".each" or ".map"
+# are really good ways to iterate.
+
 # When refactoring virus_effects, what stood out to you about the variables, if anything?
+# I didn't think of it but we were passing instance variables. and we don't need to pass them
+# because they are already an instance of the class and can be seen throughout the class.
+
 # What concept did you most solidify in this challenge?
-=======
-alabama = VirusPredictor.new("Alabama", STATE_DATA["Alabama"][:population_density], STATE_DATA["Alabama"][:population])
-alabama.virus_effects
-
-jersey = VirusPredictor.new("New Jersey", STATE_DATA["New Jersey"][:population_density], STATE_DATA["New Jersey"][:population])
-jersey.virus_effects
-
-california = VirusPredictor.new("California", STATE_DATA["California"][:population_density], STATE_DATA["California"][:population])
-california.virus_effects
-
-alaska = VirusPredictor.new("Alaska", STATE_DATA["Alaska"][:population_density], STATE_DATA["Alaska"][:population])
-alaska.virus_effects
-
-
-#=======================================================================
-# Reflection Section
->>>>>>> e03bde7fccc0d5c38c20e240bd01133650e93915
+# I think I had a really good time figuiring out driving and navigating.
+# My partner and I really molded, I felt. He let me navigate first and actually navigate.
