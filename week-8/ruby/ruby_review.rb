@@ -1,7 +1,7 @@
 # # Cipher Challenge
 
-# # I worked on this challenge [by myself, with:]
-# # I spent [#] hours on this challenge.
+# # I worked on this challenge [by myself]
+# # I spent [2] hours on this challenge.
 
 # # 1. Solution
 # # Write your comments on what each thing is doing.
@@ -99,3 +99,13 @@ end
 # could probably be shortened and coded differently. This is why I am going to Dev. I want to know
 # how to do things better and make it looke better. I want to know how to do so many things that 
 # I just cant seem to learn on my own. So heres to a new part in life!
+
+#What concepts did you review or learn in this challenge?
+# as always I tried and review my logic and how to work through a problem. It took quite awhile to figure out how
+# I was going to move things around.
+
+#What is still confusing to you about Ruby?
+# Ruby itself is not the confusing part. it is the working through a problem.
+
+#What are you going to study to get more prepared for Phase 1?
+# I will continuing everything. I want to learn and learn and learn.
