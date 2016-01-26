@@ -1,7 +1,7 @@
-![Image for data base](/imgs/One_to_one.png)
+![Image for data base](imgs/One_to_one.png)
 I believe this is a one to one because I have one Lisence number associated with that truck and there is only one of those lisences in the line of trucks so it should be a one to one. I guess I don't really get it, but that is the best example I could think of.
 
-![Image for data base](/imgs/Many_to_many.png)
+![Image for data base](imgs/Many_to_many.png)
 
 #What is a one-to-one database?
 A one to one data base has one particular item that could have a separate table if it needed but the other table could be left with NULL in it. This one is a little confusing to me, but that is what I think it is.
