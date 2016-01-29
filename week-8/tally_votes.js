@@ -175,8 +175,20 @@ for (var name in voteCount){
 // Reflection
 
 // What did you learn about iterating over nested objects in JavaScript?
+// I learned that I really struggled at it without having good names
+// for my variables. I also learned that brackets can be good. I guess I 
+// learned quite a bit its just hard to put into words for me. There was 
+// a ton of experimentation of what we were actuall getting. 
+
 // Were you able to find useful methods to help you with this?
+//  the for..in.. loop was nice. I got to work with it a lot this challenge
+//  I never used it before here so I got to figure out how it worked. Other
+//  than that we didn't use anything different. 
+
 // What concepts were solidified in the process of working through this challenge?
+//  The biggest thing that I think, for me, was the naming of variables. 
+//  The more specific that I can name them the better I can understand the code
+//  and what something is.
 
 
 
